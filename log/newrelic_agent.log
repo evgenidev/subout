@@ -1,0 +1,1260 @@
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Starting the New Relic agent in "development" environment.
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : New Relic Agent Developer Mode enabled.
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] ERROR : No application name configured.
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] ERROR : The Agent cannot start without at least one. Please check your 
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] ERROR : value set for app_name in the development 
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] ERROR : environment.
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Moped instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Net instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing deferred Rack instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Rack::Builder middleware instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Rails 3+ middleware instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Sidekiq instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Rails 4 Controller instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Rails 4 view instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Installing Rails 4 Error instrumentation
+[04/22/15 11:49:01 +0800 rjacksons-iMac.local (4589)] INFO : Finished instrumentation
+[04/22/15 11:49:04 +0800 rjacksons-iMac.local (4589)] INFO : Doing deferred dependency-detection before Rack startup
+[04/22/15 11:49:04 +0800 rjacksons-iMac.local (4589)] INFO : Installing Sinatra instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : New Relic Agent Developer Mode enabled.
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] ERROR : No application name configured.
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] ERROR : value set for app_name in the development 
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] ERROR : environment.
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Moped instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Net instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing deferred Rack instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Rails 3+ middleware instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Sidekiq instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Rails 4 Controller instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Rails 4 view instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Installing Rails 4 Error instrumentation
+[05/04/15 13:50:33 +0800 rjacksons-iMac.local (47335)] INFO : Finished instrumentation
+[05/04/15 13:50:35 +0800 rjacksons-iMac.local (47335)] INFO : Doing deferred dependency-detection before Rack startup
+[05/04/15 13:50:35 +0800 rjacksons-iMac.local (47335)] INFO : Installing Sinatra instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : New Relic Agent Developer Mode enabled.
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] ERROR : No application name configured.
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] ERROR : value set for app_name in the development 
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] ERROR : environment.
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Moped instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Net instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing deferred Rack instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Rails 3+ middleware instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Sidekiq instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Rails 4 Controller instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Rails 4 view instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Installing Rails 4 Error instrumentation
+[05/04/15 14:03:58 +0800 rjacksons-iMac.local (47744)] INFO : Finished instrumentation
+[05/04/15 14:03:59 +0800 rjacksons-iMac.local (47744)] INFO : Doing deferred dependency-detection before Rack startup
+[05/04/15 14:03:59 +0800 rjacksons-iMac.local (47744)] INFO : Installing Sinatra instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : New Relic Agent Developer Mode enabled.
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] ERROR : No application name configured.
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] ERROR : value set for app_name in the development 
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] ERROR : environment.
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Moped instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Net instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing deferred Rack instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Rails 3+ middleware instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Sidekiq instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Rails 4 Controller instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Rails 4 view instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Installing Rails 4 Error instrumentation
+[05/04/15 14:22:46 +0800 rjacksons-iMac.local (48265)] INFO : Finished instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : New Relic Agent Developer Mode enabled.
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] ERROR : No application name configured.
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] ERROR : value set for app_name in the development 
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] ERROR : environment.
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Moped instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Net instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing deferred Rack instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Rails 3+ middleware instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Sidekiq instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Rails 4 Controller instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Rails 4 view instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Rails 4 Error instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Finished instrumentation
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Doing deferred dependency-detection before Rack startup
+[05/04/15 14:22:57 +0800 rjacksons-iMac.local (48271)] INFO : Installing Sinatra instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Starting the New Relic agent in "development" environment.
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : New Relic Agent Developer Mode enabled.
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] ERROR : No application name configured.
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] ERROR : value set for app_name in the development 
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] ERROR : environment.
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Moped instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Net instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing deferred Rack instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Rack::Builder middleware instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Rails 3+ middleware instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Sidekiq instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Rails 4 Controller instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Rails 4 view instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Installing Rails 4 Error instrumentation
+[05/04/15 23:56:37 +0800 rjacksons-iMac.local (56216)] INFO : Finished instrumentation
+[05/04/15 23:56:41 +0800 rjacksons-iMac.local (56216)] INFO : Doing deferred dependency-detection before Rack startup
+[05/04/15 23:56:41 +0800 rjacksons-iMac.local (56216)] INFO : Installing Sinatra instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] ERROR : No application name configured.
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] ERROR : value set for app_name in the development 
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] ERROR : environment.
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Moped instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Net instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing deferred Rack instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Sidekiq instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 00:05:36 +0800 rjacksons-iMac.local (56487)] INFO : Finished instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] ERROR : No application name configured.
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] ERROR : value set for app_name in the development 
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] ERROR : environment.
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Moped instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Net instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing deferred Rack instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Sidekiq instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 00:06:26 +0800 rjacksons-iMac.local (56537)] INFO : Finished instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] ERROR : No application name configured.
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] ERROR : value set for app_name in the development 
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] ERROR : environment.
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Moped instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Net instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing deferred Rack instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Sidekiq instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 01:28:52 +0800 rjacksons-iMac.local (58059)] INFO : Finished instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] ERROR : No application name configured.
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] ERROR : value set for app_name in the development 
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] ERROR : environment.
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Moped instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Net instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing deferred Rack instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Sidekiq instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 01:31:58 +0800 rjacksons-iMac.local (58162)] INFO : Finished instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Starting the New Relic agent in "development" environment.
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : New Relic Agent Developer Mode enabled.
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] ERROR : No application name configured.
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] ERROR : value set for app_name in the development 
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] ERROR : environment.
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Moped instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Net instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing deferred Rack instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Rack::Builder middleware instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Rails 3+ middleware instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Sidekiq instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Rails 4 Controller instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Rails 4 view instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Installing Rails 4 Error instrumentation
+[05/05/15 01:32:12 +0800 rjacksons-iMac.local (58166)] INFO : Finished instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] ERROR : No application name configured.
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] ERROR : value set for app_name in the development 
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] ERROR : environment.
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Moped instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Net instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing deferred Rack instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Sidekiq instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 20:55:19 +0800 rjacksons-iMac.local (11667)] INFO : Finished instrumentation
+[05/06/15 20:55:21 +0800 rjacksons-iMac.local (11667)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 20:55:21 +0800 rjacksons-iMac.local (11667)] INFO : Installing Sinatra instrumentation
+[05/06/15 20:55:32 +0800 rjacksons-iMac.local (11671)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 20:55:32 +0800 rjacksons-iMac.local (11671)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 20:55:32 +0800 rjacksons-iMac.local (11671)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] ERROR : No application name configured.
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] ERROR : value set for app_name in the development 
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] ERROR : environment.
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Moped instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Net instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing deferred Rack instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Sidekiq instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Finished instrumentation
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 20:55:33 +0800 rjacksons-iMac.local (11671)] INFO : Installing Sinatra instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Starting the New Relic agent in "development" environment.
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : New Relic Agent Developer Mode enabled.
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] ERROR : No application name configured.
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] ERROR : value set for app_name in the development 
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] ERROR : environment.
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Moped instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Net instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing deferred Rack instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Rack::Builder middleware instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Rails 3+ middleware instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Sidekiq instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Rails 4 Controller instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Rails 4 view instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Rails 4 Error instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Finished instrumentation
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Doing deferred dependency-detection before Rack startup
+[05/06/15 20:56:05 +0800 rjacksons-iMac.local (11676)] INFO : Installing Sinatra instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Starting the New Relic agent in "development" environment.
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : New Relic Agent Developer Mode enabled.
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] ERROR : No application name configured.
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] ERROR : value set for app_name in the development 
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] ERROR : environment.
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Moped instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Net instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing deferred Rack instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Rack::Builder middleware instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Rails 3+ middleware instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Sidekiq instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Rails 4 Controller instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Rails 4 view instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Installing Rails 4 Error instrumentation
+[05/11/15 23:43:15 +0800 rjacksons-iMac.local (11881)] INFO : Finished instrumentation
+[05/11/15 23:43:17 +0800 rjacksons-iMac.local (11881)] INFO : Doing deferred dependency-detection before Rack startup
+[05/11/15 23:43:17 +0800 rjacksons-iMac.local (11881)] INFO : Installing Sinatra instrumentation
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] INFO : Starting the New Relic agent in "development" environment.
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] INFO : New Relic Agent Developer Mode enabled.
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] ERROR : No application name configured.
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] ERROR : value set for app_name in the development 
+[05/12/15 00:16:27 +0800 rjacksons-iMac.local (12797)] ERROR : environment.
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Moped instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Net instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing deferred Rack instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Rack::Builder middleware instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Rails 3+ middleware instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Sidekiq instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Rails 4 Controller instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Rails 4 view instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Installing Rails 4 Error instrumentation
+[05/12/15 00:16:28 +0800 rjacksons-iMac.local (12797)] INFO : Finished instrumentation
+[05/12/15 00:16:29 +0800 rjacksons-iMac.local (12797)] INFO : Doing deferred dependency-detection before Rack startup
+[05/12/15 00:16:29 +0800 rjacksons-iMac.local (12797)] INFO : Installing Sinatra instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Starting the New Relic agent in "development" environment.
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : New Relic Agent Developer Mode enabled.
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] ERROR : No application name configured.
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] ERROR : value set for app_name in the development 
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] ERROR : environment.
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Moped instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Net instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing deferred Rack instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Rack::Builder middleware instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Rails 3+ middleware instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Sidekiq instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Rails 4 Controller instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Rails 4 view instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Installing Rails 4 Error instrumentation
+[05/12/15 00:19:47 +0800 rjacksons-iMac.local (12945)] INFO : Finished instrumentation
+[05/12/15 00:19:48 +0800 rjacksons-iMac.local (12945)] INFO : Doing deferred dependency-detection before Rack startup
+[05/12/15 00:19:48 +0800 rjacksons-iMac.local (12945)] INFO : Installing Sinatra instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Starting the New Relic agent in "development" environment.
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : New Relic Agent Developer Mode enabled.
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] ERROR : No application name configured.
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] ERROR : value set for app_name in the development 
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] ERROR : environment.
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Moped instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Net instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing deferred Rack instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Rack::Builder middleware instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Rails 3+ middleware instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Sidekiq instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Rails 4 Controller instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Rails 4 view instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Installing Rails 4 Error instrumentation
+[05/12/15 23:46:11 +0800 rjacksons-iMac.local (4475)] INFO : Finished instrumentation
+[05/12/15 23:46:13 +0800 rjacksons-iMac.local (4475)] INFO : Doing deferred dependency-detection before Rack startup
+[05/12/15 23:46:13 +0800 rjacksons-iMac.local (4475)] INFO : Installing Sinatra instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Starting the New Relic agent in "development" environment.
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : New Relic Agent Developer Mode enabled.
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] ERROR : No application name configured.
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] ERROR : value set for app_name in the development 
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] ERROR : environment.
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Moped instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Net instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing deferred Rack instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Rack::Builder middleware instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Rails 3+ middleware instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Sidekiq instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Rails 4 Controller instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Rails 4 view instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Installing Rails 4 Error instrumentation
+[05/15/15 01:22:52 +0800 rjacksons-iMac.local (18192)] INFO : Finished instrumentation
+[05/15/15 01:22:54 +0800 rjacksons-iMac.local (18192)] INFO : Doing deferred dependency-detection before Rack startup
+[05/15/15 01:22:54 +0800 rjacksons-iMac.local (18192)] INFO : Installing Sinatra instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Starting the New Relic agent in "development" environment.
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : New Relic Agent Developer Mode enabled.
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] ERROR : No application name configured.
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] ERROR : value set for app_name in the development 
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] ERROR : environment.
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Moped instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Net instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing deferred Rack instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Rack::Builder middleware instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Rails 3+ middleware instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Sidekiq instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Rails 4 Controller instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Rails 4 view instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Installing Rails 4 Error instrumentation
+[05/15/15 02:24:29 +0800 rjacksons-iMac.local (19696)] INFO : Finished instrumentation
+[05/15/15 02:24:32 +0800 rjacksons-iMac.local (19696)] INFO : Doing deferred dependency-detection before Rack startup
+[05/15/15 02:24:32 +0800 rjacksons-iMac.local (19696)] INFO : Installing Sinatra instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Starting the New Relic agent in "development" environment.
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : New Relic Agent Developer Mode enabled.
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] ERROR : No application name configured.
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] ERROR : value set for app_name in the development 
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] ERROR : environment.
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Moped instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Net instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing deferred Rack instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Rack::Builder middleware instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Rails 3+ middleware instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Sidekiq instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Rails 4 Controller instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Rails 4 view instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Installing Rails 4 Error instrumentation
+[05/15/15 02:26:59 +0800 rjacksons-iMac.local (19709)] INFO : Finished instrumentation
+[05/15/15 02:27:01 +0800 rjacksons-iMac.local (19709)] INFO : Doing deferred dependency-detection before Rack startup
+[05/15/15 02:27:01 +0800 rjacksons-iMac.local (19709)] INFO : Installing Sinatra instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Starting the New Relic agent in "development" environment.
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : New Relic Agent Developer Mode enabled.
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] ERROR : No application name configured.
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] ERROR : value set for app_name in the development 
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] ERROR : environment.
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Moped instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Net instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing deferred Rack instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Rack::Builder middleware instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Rails 3+ middleware instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Sidekiq instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Rails 4 Controller instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Rails 4 view instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Installing Rails 4 Error instrumentation
+[05/15/15 02:27:36 +0800 rjacksons-iMac.local (19719)] INFO : Finished instrumentation
+[05/15/15 02:27:37 +0800 rjacksons-iMac.local (19719)] INFO : Doing deferred dependency-detection before Rack startup
+[05/15/15 02:27:37 +0800 rjacksons-iMac.local (19719)] INFO : Installing Sinatra instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Starting the New Relic agent in "development" environment.
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : New Relic Agent Developer Mode enabled.
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] ERROR : No application name configured.
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] ERROR : value set for app_name in the development 
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] ERROR : environment.
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Moped instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Net instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing deferred Rack instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Rack::Builder middleware instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Rails 3+ middleware instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Sidekiq instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Rails 4 Controller instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Rails 4 view instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Installing Rails 4 Error instrumentation
+[05/17/15 21:29:17 +0800 rjacksons-iMac.local (38974)] INFO : Finished instrumentation
+[05/17/15 21:29:19 +0800 rjacksons-iMac.local (38974)] INFO : Doing deferred dependency-detection before Rack startup
+[05/17/15 21:29:19 +0800 rjacksons-iMac.local (38974)] INFO : Installing Sinatra instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Starting the New Relic agent in "development" environment.
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : New Relic Agent Developer Mode enabled.
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] ERROR : No application name configured.
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] ERROR : value set for app_name in the development 
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] ERROR : environment.
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Moped instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Net instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing deferred Rack instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Rack::Builder middleware instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Rails 3+ middleware instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Sidekiq instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Rails 4 Controller instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Rails 4 view instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Installing Rails 4 Error instrumentation
+[05/19/15 02:26:00 +0800 rjacksons-iMac.local (48643)] INFO : Finished instrumentation
+[05/19/15 02:26:02 +0800 rjacksons-iMac.local (48643)] INFO : Doing deferred dependency-detection before Rack startup
+[05/19/15 02:26:02 +0800 rjacksons-iMac.local (48643)] INFO : Installing Sinatra instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Starting the New Relic agent in "development" environment.
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : New Relic Agent Developer Mode enabled.
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] ERROR : No application name configured.
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] ERROR : value set for app_name in the development 
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] ERROR : environment.
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Moped instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Net instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing deferred Rack instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Rack::Builder middleware instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Rails 3+ middleware instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Sidekiq instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Rails 4 Controller instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Rails 4 view instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Installing Rails 4 Error instrumentation
+[05/19/15 05:39:56 +0800 rjacksons-iMac.local (49922)] INFO : Finished instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Starting the New Relic agent in "development" environment.
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : New Relic Agent Developer Mode enabled.
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] ERROR : No application name configured.
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] ERROR : value set for app_name in the development 
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] ERROR : environment.
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Moped instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Net instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing deferred Rack instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Rack::Builder middleware instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Rails 3+ middleware instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Sidekiq instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Rails 4 Controller instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Rails 4 view instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Installing Rails 4 Error instrumentation
+[05/19/15 05:40:27 +0800 rjacksons-iMac.local (49945)] INFO : Finished instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Starting the New Relic agent in "development" environment.
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : New Relic Agent Developer Mode enabled.
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] ERROR : No application name configured.
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] ERROR : value set for app_name in the development 
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] ERROR : environment.
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Moped instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing middleware-based Excon instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Net instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing deferred Rack instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Rack::Builder middleware instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Rails 3+ middleware instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Sidekiq instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Rails 4 Controller instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Rails 4 view instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Installing Rails 4 Error instrumentation
+[05/19/15 05:41:09 +0800 rjacksons-iMac.local (49997)] INFO : Finished instrumentation
+[05/19/15 05:41:12 +0800 rjacksons-iMac.local (49997)] INFO : Doing deferred dependency-detection before Rack startup
+[05/19/15 05:41:12 +0800 rjacksons-iMac.local (49997)] INFO : Installing Sinatra instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Starting the New Relic agent in "development" environment.
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : New Relic Agent Developer Mode enabled.
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] ERROR : No application name configured.
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] ERROR : value set for app_name in the development 
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] ERROR : environment.
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Moped instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing middleware-based Excon instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Net instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing deferred Rack instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Rack::Builder middleware instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Rails 3+ middleware instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Sidekiq instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Rails 4 Controller instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Rails 4 view instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Installing Rails 4 Error instrumentation
+[05/19/15 05:42:52 +0800 rjacksons-iMac.local (50043)] INFO : Finished instrumentation
+[05/19/15 05:42:53 +0800 rjacksons-iMac.local (50043)] INFO : Doing deferred dependency-detection before Rack startup
+[05/19/15 05:42:53 +0800 rjacksons-iMac.local (50043)] INFO : Installing Sinatra instrumentation
+[05/19/15 23:51:34 +0800 rjacksons-iMac.local (59074)] INFO : Starting the New Relic agent in "development" environment.
+[05/19/15 23:51:34 +0800 rjacksons-iMac.local (59074)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/19/15 23:51:34 +0800 rjacksons-iMac.local (59074)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : New Relic Agent Developer Mode enabled.
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] ERROR : No application name configured.
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] ERROR : value set for app_name in the development 
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] ERROR : environment.
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Moped instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing middleware-based Excon instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Net instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing deferred Rack instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Rack::Builder middleware instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Rails 3+ middleware instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Sidekiq instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Rails 4 Controller instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Rails 4 view instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Installing Rails 4 Error instrumentation
+[05/19/15 23:51:35 +0800 rjacksons-iMac.local (59074)] INFO : Finished instrumentation
+[05/19/15 23:51:37 +0800 rjacksons-iMac.local (59074)] INFO : Doing deferred dependency-detection before Rack startup
+[05/19/15 23:51:37 +0800 rjacksons-iMac.local (59074)] INFO : Installing Sinatra instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Starting the New Relic agent in "development" environment.
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : New Relic Agent Developer Mode enabled.
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] ERROR : No application name configured.
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] ERROR : value set for app_name in the development 
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] ERROR : environment.
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Moped instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing middleware-based Excon instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Net instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing deferred Rack instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Rack::Builder middleware instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Rails 3+ middleware instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Sidekiq instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Rails 4 Controller instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Rails 4 view instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Installing Rails 4 Error instrumentation
+[05/21/15 23:35:53 +0800 rjacksons-iMac.local (90375)] INFO : Finished instrumentation
+[05/21/15 23:35:55 +0800 rjacksons-iMac.local (90375)] INFO : Doing deferred dependency-detection before Rack startup
+[05/21/15 23:35:55 +0800 rjacksons-iMac.local (90375)] INFO : Installing Sinatra instrumentation
+[05/22/15 00:20:21 +0800 rjacksons-iMac.local (92447)] INFO : Starting the New Relic agent in "development" environment.
+[05/22/15 00:20:21 +0800 rjacksons-iMac.local (92447)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/22/15 00:20:21 +0800 rjacksons-iMac.local (92447)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : New Relic Agent Developer Mode enabled.
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] ERROR : No application name configured.
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] ERROR : value set for app_name in the development 
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] ERROR : environment.
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Moped instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing middleware-based Excon instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Net instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing deferred Rack instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Rack::Builder middleware instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Rails 3+ middleware instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Sidekiq instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Rails 4 Controller instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Rails 4 view instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Installing Rails 4 Error instrumentation
+[05/22/15 00:20:22 +0800 rjacksons-iMac.local (92447)] INFO : Finished instrumentation
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8287)] INFO : Starting the New Relic agent in "development" environment.
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8287)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8287)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8288)] INFO : Starting the New Relic agent in "development" environment.
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8288)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8288)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8287)] INFO : New Relic Agent Developer Mode enabled.
+[05/23/15 01:35:53 +0800 rjacksons-iMac.local (8288)] INFO : New Relic Agent Developer Mode enabled.
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] ERROR : No application name configured.
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] ERROR : value set for app_name in the development 
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] ERROR : environment.
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] ERROR : No application name configured.
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] ERROR : value set for app_name in the development 
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] ERROR : environment.
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Moped instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Moped instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing middleware-based Excon instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing middleware-based Excon instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Net instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Net instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing deferred Rack instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing deferred Rack instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Rack::Builder middleware instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Rails 3+ middleware instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Sidekiq instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Rails 4 Controller instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Rails 4 view instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Installing Rails 4 Error instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8288)] INFO : Finished instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Rack::Builder middleware instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Rails 3+ middleware instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Sidekiq instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Rails 4 Controller instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Rails 4 view instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Installing Rails 4 Error instrumentation
+[05/23/15 01:35:54 +0800 rjacksons-iMac.local (8287)] INFO : Finished instrumentation
+[05/23/15 01:35:58 +0800 rjacksons-iMac.local (8288)] INFO : Doing deferred dependency-detection before Rack startup
+[05/23/15 01:35:58 +0800 rjacksons-iMac.local (8288)] INFO : Installing Sinatra instrumentation
+[05/23/15 01:35:59 +0800 rjacksons-iMac.local (8287)] INFO : Installing Sinatra instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Starting the New Relic agent in "development" environment.
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : New Relic Agent Developer Mode enabled.
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] ERROR : No application name configured.
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] ERROR : value set for app_name in the development 
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] ERROR : environment.
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Moped instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing middleware-based Excon instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Net instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing deferred Rack instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Rack::Builder middleware instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Rails 3+ middleware instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Sidekiq instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Rails 4 Controller instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Rails 4 view instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Installing Rails 4 Error instrumentation
+[05/27/15 00:16:30 +0800 rjacksons-iMac.local (47480)] INFO : Finished instrumentation
+[05/27/15 00:16:34 +0800 rjacksons-iMac.local (47480)] INFO : Doing deferred dependency-detection before Rack startup
+[05/27/15 00:16:34 +0800 rjacksons-iMac.local (47480)] INFO : Installing Sinatra instrumentation
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] INFO : Starting the New Relic agent in "development" environment.
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] INFO : New Relic Agent Developer Mode enabled.
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] ERROR : No application name configured.
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] ERROR : value set for app_name in the development 
+[05/27/15 22:34:36 +0800 rjacksons-iMac.local (59775)] ERROR : environment.
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Moped instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing middleware-based Excon instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Net instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing deferred Rack instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Rack::Builder middleware instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Rails 3+ middleware instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Sidekiq instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Rails 4 Controller instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Rails 4 view instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Installing Rails 4 Error instrumentation
+[05/27/15 22:34:37 +0800 rjacksons-iMac.local (59775)] INFO : Finished instrumentation
+[05/27/15 22:34:39 +0800 rjacksons-iMac.local (59775)] INFO : Doing deferred dependency-detection before Rack startup
+[05/27/15 22:34:39 +0800 rjacksons-iMac.local (59775)] INFO : Installing Sinatra instrumentation
+[05/29/15 10:47:01 +0800 rjacksons-iMac.local (10155)] INFO : Starting the New Relic agent in "development" environment.
+[05/29/15 10:47:01 +0800 rjacksons-iMac.local (10155)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/29/15 10:47:01 +0800 rjacksons-iMac.local (10155)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : New Relic Agent Developer Mode enabled.
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] ERROR : No application name configured.
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] ERROR : value set for app_name in the development 
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] ERROR : environment.
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Moped instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing middleware-based Excon instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Net instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing deferred Rack instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Rack::Builder middleware instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Rails 3+ middleware instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Sidekiq instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Rails 4 Controller instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Rails 4 view instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Installing Rails 4 Error instrumentation
+[05/29/15 10:47:02 +0800 rjacksons-iMac.local (10155)] INFO : Finished instrumentation
+[05/29/15 10:47:09 +0800 rjacksons-iMac.local (10155)] INFO : Doing deferred dependency-detection before Rack startup
+[05/29/15 10:47:09 +0800 rjacksons-iMac.local (10155)] INFO : Installing Sinatra instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Starting the New Relic agent in "development" environment.
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : New Relic Agent Developer Mode enabled.
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] ERROR : No application name configured.
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] ERROR : value set for app_name in the development 
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] ERROR : environment.
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Moped instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing middleware-based Excon instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Net instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing deferred Rack instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Rack::Builder middleware instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Rails 3+ middleware instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Sidekiq instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Rails 4 Controller instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Rails 4 view instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Installing Rails 4 Error instrumentation
+[05/29/15 11:00:32 +0800 rjacksons-iMac.local (10282)] INFO : Finished instrumentation
+[05/29/15 11:00:33 +0800 rjacksons-iMac.local (10282)] INFO : Doing deferred dependency-detection before Rack startup
+[05/29/15 11:00:33 +0800 rjacksons-iMac.local (10282)] INFO : Installing Sinatra instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Starting the New Relic agent in "development" environment.
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : New Relic Agent Developer Mode enabled.
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] ERROR : No application name configured.
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] ERROR : The Agent cannot start without at least one. Please check your 
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] ERROR : value set for app_name in the development 
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] ERROR : environment.
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Moped instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing middleware-based Excon instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Net instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing deferred Rack instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Rack::Builder middleware instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Rails 3+ middleware instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Sidekiq instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Rails 4 Controller instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Rails 4 view instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Installing Rails 4 Error instrumentation
+[05/29/15 11:59:44 +0800 rjacksons-iMac.local (11080)] INFO : Finished instrumentation
+[05/29/15 11:59:46 +0800 rjacksons-iMac.local (11080)] INFO : Doing deferred dependency-detection before Rack startup
+[05/29/15 11:59:46 +0800 rjacksons-iMac.local (11080)] INFO : Installing Sinatra instrumentation
+[06/01/15 22:08:41 +0800 rjacksons-iMac.local (42039)] INFO : Starting the New Relic agent in "development" environment.
+[06/01/15 22:08:41 +0800 rjacksons-iMac.local (42039)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/01/15 22:08:41 +0800 rjacksons-iMac.local (42039)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : New Relic Agent Developer Mode enabled.
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] ERROR : No application name configured.
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] ERROR : value set for app_name in the development 
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] ERROR : environment.
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Moped instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing middleware-based Excon instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Net instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing deferred Rack instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Rack::Builder middleware instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Rails 3+ middleware instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Sidekiq instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Rails 4 Controller instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Rails 4 view instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Installing Rails 4 Error instrumentation
+[06/01/15 22:08:42 +0800 rjacksons-iMac.local (42039)] INFO : Finished instrumentation
+[06/01/15 22:08:44 +0800 rjacksons-iMac.local (42039)] INFO : Doing deferred dependency-detection before Rack startup
+[06/01/15 22:08:44 +0800 rjacksons-iMac.local (42039)] INFO : Installing Sinatra instrumentation
+[06/04/15 14:53:34 +0800 rjacksons-iMac.local (8059)] INFO : Starting the New Relic agent in "development" environment.
+[06/04/15 14:53:34 +0800 rjacksons-iMac.local (8059)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/04/15 14:53:34 +0800 rjacksons-iMac.local (8059)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : New Relic Agent Developer Mode enabled.
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] ERROR : No application name configured.
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] ERROR : value set for app_name in the development 
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] ERROR : environment.
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Moped instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing middleware-based Excon instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Net instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing deferred Rack instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Rack::Builder middleware instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Rails 3+ middleware instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Sidekiq instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Rails 4 Controller instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Rails 4 view instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Installing Rails 4 Error instrumentation
+[06/04/15 14:53:35 +0800 rjacksons-iMac.local (8059)] INFO : Finished instrumentation
+[06/04/15 14:53:38 +0800 rjacksons-iMac.local (8059)] INFO : Doing deferred dependency-detection before Rack startup
+[06/04/15 14:53:38 +0800 rjacksons-iMac.local (8059)] INFO : Installing Sinatra instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Starting the New Relic agent in "development" environment.
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : New Relic Agent Developer Mode enabled.
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] ERROR : No application name configured.
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] ERROR : value set for app_name in the development 
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] ERROR : environment.
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Moped instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing middleware-based Excon instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Net instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing deferred Rack instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Rack::Builder middleware instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Rails 3+ middleware instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Sidekiq instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Rails 4 Controller instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Rails 4 view instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Installing Rails 4 Error instrumentation
+[06/04/15 14:55:22 +0800 rjacksons-iMac.local (8571)] INFO : Finished instrumentation
+[06/04/15 14:55:23 +0800 rjacksons-iMac.local (8571)] INFO : Doing deferred dependency-detection before Rack startup
+[06/04/15 14:55:23 +0800 rjacksons-iMac.local (8571)] INFO : Installing Sinatra instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Starting the New Relic agent in "development" environment.
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : New Relic Agent Developer Mode enabled.
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] ERROR : No application name configured.
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] ERROR : value set for app_name in the development 
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] ERROR : environment.
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Moped instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing middleware-based Excon instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Net instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing deferred Rack instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Rack::Builder middleware instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Rails 3+ middleware instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Sidekiq instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Rails 4 Controller instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Rails 4 view instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Installing Rails 4 Error instrumentation
+[06/09/15 01:20:43 +0800 rjacksons-iMac.local (7100)] INFO : Finished instrumentation
+[06/09/15 01:20:45 +0800 rjacksons-iMac.local (7100)] INFO : Doing deferred dependency-detection before Rack startup
+[06/09/15 01:20:45 +0800 rjacksons-iMac.local (7100)] INFO : Installing Sinatra instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] ERROR : No application name configured.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] ERROR : value set for app_name in the development 
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] ERROR : environment.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] ERROR : No application name configured.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] ERROR : value set for app_name in the development 
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] ERROR : environment.
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Moped instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Moped instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Net instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Net instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing deferred Rack instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing deferred Rack instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Sidekiq instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19154)] INFO : Finished instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Sidekiq instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 11:01:02 +0800 rjacksons-iMac.local (19157)] INFO : Finished instrumentation
+[06/10/15 11:01:06 +0800 rjacksons-iMac.local (19154)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/15 11:01:06 +0800 rjacksons-iMac.local (19154)] INFO : Installing Sinatra instrumentation
+[06/10/15 11:01:07 +0800 rjacksons-iMac.local (19157)] INFO : Installing Sinatra instrumentation
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] ERROR : No application name configured.
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] ERROR : value set for app_name in the development 
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] ERROR : environment.
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : Installing Moped instrumentation
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : Installing Net instrumentation
+[06/10/15 11:31:48 +0800 rjacksons-iMac.local (19399)] INFO : Installing deferred Rack instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Installing Sidekiq instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 11:31:49 +0800 rjacksons-iMac.local (19399)] INFO : Finished instrumentation
+[06/10/15 11:31:52 +0800 rjacksons-iMac.local (19399)] INFO : Installing Sinatra instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] ERROR : No application name configured.
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] ERROR : value set for app_name in the development 
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] ERROR : environment.
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Moped instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Net instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing deferred Rack instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Sidekiq instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 11:50:01 +0800 rjacksons-iMac.local (19855)] INFO : Finished instrumentation
+[06/10/15 11:50:03 +0800 rjacksons-iMac.local (19855)] INFO : Installing Sinatra instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] ERROR : No application name configured.
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] ERROR : value set for app_name in the development 
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] ERROR : environment.
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Moped instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Net instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing deferred Rack instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Sidekiq instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 11:51:35 +0800 rjacksons-iMac.local (19872)] INFO : Finished instrumentation
+[06/10/15 11:51:36 +0800 rjacksons-iMac.local (19872)] INFO : Installing Sinatra instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] ERROR : No application name configured.
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] ERROR : value set for app_name in the development 
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] ERROR : environment.
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Moped instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Net instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing deferred Rack instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Sidekiq instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 11:53:29 +0800 rjacksons-iMac.local (19929)] INFO : Finished instrumentation
+[06/10/15 11:53:30 +0800 rjacksons-iMac.local (19929)] INFO : Installing Sinatra instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Starting the New Relic agent in "development" environment.
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : New Relic Agent Developer Mode enabled.
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] ERROR : No application name configured.
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] ERROR : value set for app_name in the development 
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] ERROR : environment.
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Moped instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing middleware-based Excon instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Net instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing deferred Rack instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Rack::Builder middleware instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Rails 3+ middleware instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Sidekiq instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Rails 4 Controller instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Rails 4 view instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Installing Rails 4 Error instrumentation
+[06/10/15 15:00:35 +0800 rjacksons-iMac.local (22522)] INFO : Finished instrumentation
+[06/10/15 15:00:36 +0800 rjacksons-iMac.local (22522)] INFO : Doing deferred dependency-detection before Rack startup
+[06/10/15 15:00:36 +0800 rjacksons-iMac.local (22522)] INFO : Installing Sinatra instrumentation
+[06/11/15 03:59:46 +0800 rjacksons-iMac.local (19929)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Net::SMTPUnknownError
+[06/11/15 03:59:46 +0800 rjacksons-iMac.local (19929)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Net::SMTPUnknownError
+[06/11/15 04:00:16 +0800 rjacksons-iMac.local (19929)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Net::SMTPUnknownError
+[06/11/15 04:00:16 +0800 rjacksons-iMac.local (19929)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Net::SMTPUnknownError
+[06/11/15 04:01:04 +0800 rjacksons-iMac.local (19929)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: Net::SMTPUnknownError
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Starting the New Relic agent in "development" environment.
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : New Relic Agent Developer Mode enabled.
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] ERROR : No application name configured.
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] ERROR : value set for app_name in the development 
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] ERROR : environment.
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Moped instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing middleware-based Excon instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Net instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing deferred Rack instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Rack::Builder middleware instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Rails 3+ middleware instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Sidekiq instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Rails 4 Controller instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Rails 4 view instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Installing Rails 4 Error instrumentation
+[06/11/15 04:02:19 +0800 rjacksons-iMac.local (29628)] INFO : Finished instrumentation
+[06/11/15 04:02:23 +0800 rjacksons-iMac.local (29628)] INFO : Installing Sinatra instrumentation
+[06/12/15 00:49:41 +0800 rjacksons-iMac.local (42254)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 00:49:41 +0800 rjacksons-iMac.local (42254)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 00:49:41 +0800 rjacksons-iMac.local (42254)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] ERROR : No application name configured.
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] ERROR : value set for app_name in the development 
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] ERROR : environment.
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Moped instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Net instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing deferred Rack instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Sidekiq instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 00:49:42 +0800 rjacksons-iMac.local (42254)] INFO : Finished instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] ERROR : No application name configured.
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] ERROR : value set for app_name in the development 
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] ERROR : environment.
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Moped instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Net instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing deferred Rack instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Sidekiq instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 00:50:25 +0800 rjacksons-iMac.local (42272)] INFO : Finished instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] ERROR : No application name configured.
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] ERROR : value set for app_name in the development 
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] ERROR : environment.
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Moped instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Net instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing deferred Rack instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Sidekiq instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 00:57:45 +0800 rjacksons-iMac.local (42401)] INFO : Finished instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] ERROR : No application name configured.
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] ERROR : value set for app_name in the development 
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] ERROR : environment.
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Moped instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Net instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing deferred Rack instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Sidekiq instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 01:04:22 +0800 rjacksons-iMac.local (42528)] INFO : Finished instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] ERROR : No application name configured.
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] ERROR : value set for app_name in the development 
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] ERROR : environment.
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Moped instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Net instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing deferred Rack instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Sidekiq instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 01:05:37 +0800 rjacksons-iMac.local (42599)] INFO : Finished instrumentation
+[06/12/15 01:07:36 +0800 rjacksons-iMac.local (42659)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 01:07:36 +0800 rjacksons-iMac.local (42659)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 01:07:36 +0800 rjacksons-iMac.local (42659)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] ERROR : No application name configured.
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] ERROR : value set for app_name in the development 
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] ERROR : environment.
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Moped instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Net instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing deferred Rack instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Sidekiq instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 01:07:37 +0800 rjacksons-iMac.local (42659)] INFO : Finished instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Starting the New Relic agent in "development" environment.
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : New Relic Agent Developer Mode enabled.
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] ERROR : No application name configured.
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] ERROR : value set for app_name in the development 
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] ERROR : environment.
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Moped instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing middleware-based Excon instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Net instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing deferred Rack instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Rack::Builder middleware instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Rails 3+ middleware instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Sidekiq instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Rails 4 Controller instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Rails 4 view instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Installing Rails 4 Error instrumentation
+[06/12/15 01:09:21 +0800 rjacksons-iMac.local (42761)] INFO : Finished instrumentation
+[06/16/15 02:18:07 +0800 rjacksons-iMac.local (89169)] INFO : Starting the New Relic agent in "development" environment.
+[06/16/15 02:18:07 +0800 rjacksons-iMac.local (89169)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/16/15 02:18:07 +0800 rjacksons-iMac.local (89169)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : New Relic Agent Developer Mode enabled.
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] ERROR : No application name configured.
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] ERROR : value set for app_name in the development 
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] ERROR : environment.
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Moped instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing middleware-based Excon instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Net instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing deferred Rack instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Rack::Builder middleware instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Rails 3+ middleware instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Sidekiq instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Rails 4 Controller instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Rails 4 view instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Installing Rails 4 Error instrumentation
+[06/16/15 02:18:08 +0800 rjacksons-iMac.local (89169)] INFO : Finished instrumentation
+[06/16/15 02:18:12 +0800 rjacksons-iMac.local (89169)] INFO : Doing deferred dependency-detection before Rack startup
+[06/16/15 02:18:12 +0800 rjacksons-iMac.local (89169)] INFO : Installing Sinatra instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Starting the New Relic agent in "development" environment.
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : New Relic Agent Developer Mode enabled.
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] ERROR : No application name configured.
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] ERROR : value set for app_name in the development 
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] ERROR : environment.
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Moped instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing middleware-based Excon instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Net instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing deferred Rack instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Rack::Builder middleware instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Rails 3+ middleware instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Sidekiq instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Rails 4 Controller instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Rails 4 view instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Installing Rails 4 Error instrumentation
+[06/16/15 02:18:22 +0800 rjacksons-iMac.local (89178)] INFO : Finished instrumentation
+[06/16/15 02:18:23 +0800 rjacksons-iMac.local (89178)] INFO : Doing deferred dependency-detection before Rack startup
+[06/16/15 02:18:23 +0800 rjacksons-iMac.local (89178)] INFO : Installing Sinatra instrumentation
+[06/16/15 02:19:55 +0800 rjacksons-iMac.local (89189)] INFO : Starting the New Relic agent in "development" environment.
+[06/16/15 02:19:55 +0800 rjacksons-iMac.local (89189)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[06/16/15 02:19:55 +0800 rjacksons-iMac.local (89189)] INFO : Reading configuration from config/newrelic.yml (/Volumes/projects/subout)
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : New Relic Agent Developer Mode enabled.
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] ERROR : No application name configured.
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] ERROR : The Agent cannot start without at least one. Please check your 
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] ERROR : value set for app_name in the development 
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] ERROR : environment.
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Moped instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing middleware-based Excon instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Net instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing deferred Rack instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Rack::Builder middleware instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Rails 3+ middleware instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Sidekiq instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Rails 4 Controller instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Rails 4 view instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Installing Rails 4 Error instrumentation
+[06/16/15 02:19:56 +0800 rjacksons-iMac.local (89189)] INFO : Finished instrumentation
+[06/16/15 02:19:58 +0800 rjacksons-iMac.local (89189)] INFO : Doing deferred dependency-detection before Rack startup
+[06/16/15 02:19:58 +0800 rjacksons-iMac.local (89189)] INFO : Installing Sinatra instrumentation
